@@ -1,3 +1,3 @@
 [submodule "js.ui"]
-	path = js.ui
+	path = examples/hello-world/mobile-hello-world/src/lib/js.ui
 	url = https://github.com/marcuswestin/js.ui.git

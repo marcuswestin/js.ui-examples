@@ -1,4 +1,4 @@
-import { Col, Row, Style, TextStyle, TextView } from './js.ui'
+import { Col, Row, Style, TextStyle, TextView } from './lib/js.ui'
 
 export let HelloWorld = () => {
     return Row(Style({ height:'100%', alignItems:'center' }),
